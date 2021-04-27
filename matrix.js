@@ -11,7 +11,6 @@ var num = 1
 setInterval(function lol(){
         num++
         if(num > qtd){
-                qtd = prompt('more?')
                 clearInterval(lol())
         }
 
