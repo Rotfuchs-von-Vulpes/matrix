@@ -1,5 +1,5 @@
 var qtd = prompt('Type how many numbers you want')
-var speed = prompt('how fast you want it? (recomended: 50 to 100')
+var speed = prompt('how fast you want it? (recomended: 50 to 100)')
 
 var c1 = document.getElementById('c1')
 var c2 = document.getElementById('c2')
